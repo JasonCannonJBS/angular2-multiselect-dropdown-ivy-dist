@@ -282,12 +282,5 @@ The following list of settings are supported by the component. Configure the set
 - `onFilterDeSelectAll` - Callback event fired when the list is filtered and all filtered items are de-selected with de-select all filtered items checkbox.
     Example : (onFilterDeSelectAll)="onFilterDeSelectAll($event)"
 
-## Run locally
-- Clone the repository or downlod the .zip,.tar files.
-- Run `npm install`
-- Run `ng serve` for a dev server
-- Navigate to `http://localhost:4200/`
- The app will automatically reload if you change any of the source files.
-
 ## License
 MIT License.
